@@ -1,7 +1,7 @@
 #  MindNode Mind Mapping Hub
 
 <div align="center">
-  <img src="[https://img.gta5-mods.com/.png](https://cdn.mos.cms.futurecdn.net/mpnspXBD67YWJZu92hhtbV-1200-80.png)" alt="MindNode Logo"/>
+  <img src="[[https://img.gta5-mods.com/.png](https://cdn.mos.cms.futurecdn.net/mpnspXBD67YWJZu92hhtbV-1200-80.png)](https://cdn.macstories.net/hero-image-1679576977718.png)" alt="MindNode Logo"/>
 </div>
 
 **Optimize your thinking pipeline with expert resources for MindNode visual mind mapping brainstorming.**
